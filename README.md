@@ -2,9 +2,9 @@ Olá, me chamo Ketlin, tenho 22 anos, sou musicista e designer. Possuo 6 anos de
 
 Aqui está algumas informações interessantes
 
-Link do me LinkedIn: (https://www.linkedin.com/in/ketlintp/)
+👉 Link do meu LinkedIn: (https://www.linkedin.com/in/ketlintp/)
 
-Link do meu portfólio: (https://www.behance.net/ketlintp)
+👉 Link do meu portfólio: (https://www.behance.net/ketlintp)
 
 ✅ Algumas de minhas skills:
 
