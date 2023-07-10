@@ -7,6 +7,7 @@ Link do me LinkedIn: (https://www.linkedin.com/in/ketlintp/)
 Link do meu portfólio: (https://www.behance.net/ketlintp)
 
 ✅ Algumas de minhas skills:
+
 • Criação de Interfaces 
 • Photoshop
 • Figma
