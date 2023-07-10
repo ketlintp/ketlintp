@@ -1,16 +1,21 @@
-### Hi there 👋
+Olá, me chamo Ketlin, tenho 22 anos, sou musicista e designer. Possuo 6 anos de experiência em design digital. Estou em processo de migração de carreira para UX/UI Designer - Designer de Interfaces. Além disso, sou graduada em Música e estudo produção musical. Também falo inglês e espanhol, tendo experiência com design digital para clientes internacionais.
 
-<!--
-**ketlintp/ketlintp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui está algumas informações interessantes
 
-Here are some ideas to get you started:
+Link do me LinkedIn: (https://www.linkedin.com/in/ketlintp/)
+Link do meu portfólio: behance.net/ketlintp 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Algumas de minhas skills:
+• Criação de Interfaces 
+• Photoshop
+• Figma
+• Criação de protótipos navegáveis
+• Design responsivo e interativo
+• Tipografia
+• Wireframes
+• Usabilidade e design responsivo
+• Pixel Perfect Design
+• Prototipagem e microinterações
+• Necessidades do usuário
+
+Vamos nos conectar? 😁👋
